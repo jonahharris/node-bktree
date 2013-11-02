@@ -1,7 +1,20 @@
+node-bktree
+===========
+
+A JavaScript implementation of a Burkhard-Keller Tree (BK-Tree)
+
+Install
+-------
+
+    npm install bktree
+
+Usage
+-----
+
 ```javascript
 // Burkhard-Keller Tree (BK-Tree) Example
 // Jonah H. Harris <jonah.harris@gmail.com>
-var bktree = require('./index');
+var bktree = require('bktree');
 var terms = [
   'accommodate', 'accommodation', 'achieve', 'across',
   'aggression', 'aggressive', 'apparently', 'appearance',
