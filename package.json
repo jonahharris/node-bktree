@@ -2,7 +2,7 @@
   "name": "bktree",
   "author": "Jonah H. Harris <jonah.harris@gmail.com> (http://www.jonahharris.com/)",
   "description": "A JavaScript implementation of a Burkhard-Keller Tree (BK-Tree)",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "repository": {
     "url": "https://github.com/jonahharris/node-bktree"
   },
