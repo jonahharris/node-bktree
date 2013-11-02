@@ -11,6 +11,8 @@ Install
 Usage
 -----
 
+An example of using the tree:
+
 ```javascript
 // Burkhard-Keller Tree (BK-Tree) Example
 // Jonah H. Harris <jonah.harris@gmail.com>
@@ -56,3 +58,4 @@ var r = tree.query('refered', 3);
 var r = tree.query('refered', 3, 1);
 // [ 'referred' ]
 ```
+
